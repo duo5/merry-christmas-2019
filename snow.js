@@ -73,6 +73,9 @@ ctx.fillText("Happy new year :)", 550, 90);
 
     setInterval(draw,50);
 }
+var audio=new Audio();
+audio.src="./chieckhangioam.mp3";
+audio.play();
 
 
 
