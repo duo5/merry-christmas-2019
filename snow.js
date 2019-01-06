@@ -46,7 +46,7 @@ gradient.addColorStop("0", "white");
 gradient.addColorStop("0.5", "yellow");
 gradient.addColorStop("1.0", "red");
 ctx.fillStyle = gradient;
-ctx.fillText("Happy new year :)", 550, 90);
+ctx.fillText("2019", 550, 90);
     }
 
     // animate the falkes
